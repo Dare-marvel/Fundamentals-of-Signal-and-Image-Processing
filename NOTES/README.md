@@ -1,6 +1,6 @@
 # Notes and Previous Year's Questions:
 
-## [Notes](https://docs.google.com/document/d/13nckd5i--Z86-NohNSOlKsRgxBuXCmYU8SJWAnLo-D8/edit)
+## [Complete and Concise Notes](https://docs.google.com/document/d/13nckd5i--Z86-NohNSOlKsRgxBuXCmYU8SJWAnLo-D8/edit)
 ## [Previous Year's Questions](https://docs.google.com/document/d/10Vm5cLLBuEzA6fWr1SUN7v_ERXzuv2WLYYxGN3Da1sM/edit)
 
 # Youtube Channels to prepare for Exam:
