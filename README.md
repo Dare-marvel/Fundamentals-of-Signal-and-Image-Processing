@@ -2,12 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/Dare-marvel/Fundamentals-of-Signal-and-Image-Processing--FOSIP--/main/assets/signal_processing.png" />
 
-## Playlists to prepare for Exam
+- [Complete Notes](https://docs.google.com/document/d/13nckd5i--Z86-NohNSOlKsRgxBuXCmYU8SJWAnLo-D8/edit)
+- [Previous Year's Questions](https://docs.google.com/document/d/10Vm5cLLBuEzA6fWr1SUN7v_ERXzuv2WLYYxGN3Da1sM/edit)
 
-Sure! Here's the information you provided in a nice markdown format:
-
-## YouTube Channels
-
+## Playlists to prepare for Exam:
 ### DSP (Digital Signal Processing):
 
 1. **Perfect Computer Engineer**
@@ -38,3 +36,7 @@ Sure! Here's the information you provided in a nice markdown format:
 
 3. **Dr. Sapna Katiyar**
    - [Playlist](https://www.youtube.com/playlist?list=PL3rE2jS8zxAykFjinlf6EsucLv5EA03_m)
+
+4. **Varsha's Engineering Stuff**
+   - [Playlist](https://www.youtube.com/playlist?list=PLS5J_kYlArq5oI4Dytcdhe0CsPuFyWzcH)
+
